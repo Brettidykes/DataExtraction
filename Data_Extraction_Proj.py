@@ -4,8 +4,7 @@ import os
 list_directory = os.listdir
 is_file = os.path.isfile
 get_size = os.path.getsize
-get_absolute_path = os.path.abspath
-get_last_modified = os.path.getmtime
+
 
 # List files in the current directory // cwd = current working directory
 files = list_directory(os.getcwd())
