@@ -93,6 +93,4 @@ file_info = {
 
 You can also adjust the script to exclude certain files or directories based on your needs.
 
-## License
 
-This project is licensed under the MIT License. Feel free to use and modify it for your own purposes.
